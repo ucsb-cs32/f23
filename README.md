@@ -36,3 +36,4 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 |---------------|--------
 | October   2nd | Administrative stuff; overview of the projects
 | October   4th | Git review; branches and code review; interfaces and module boundaries
+| October   9th | Inheritance; virtual functions
