@@ -13,19 +13,21 @@ there are more links there as well, on the [class links post](https://piazza.com
 
 - **Lectures**  14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701
 - **Labs**      14:00 to 19:00 on Tuesdays in Phelps 3525
-
-<!--
-- **Shinda's Office Hours**  12:45 to 13:45 on Tuesdays (location TBD)
-- **Kevin's Office Hours**  15:30 to 16:30 on Wednesdays in CSIL
-- **Jason's Office Hours**  15:00 to 16:00 on Thursdays in CSIL
--->
+- **Jiayi's Office Hours**   10:00 to 11:00 on Tuesdays in CSIL
+- **Shinda's Office Hours**  12:45 to 13:45 on Tuesdays in the TA Trailer
+- **Maya's Office Hours**    11:00 to 12:00 on Wednesdays in CSIL
+- **Kevin's Office Hours**   15:30 to 16:30 on Wednesdays in CSIL
+- **Jason's Office Hours**   15:00 to 16:00 on Thursdays in CSIL
 
 
 ## Assignments
 
 _Assignments are due before midnight Pacific Time_
 
-Nothing yet...
+[Scrypt](./scrypt/01+-+Calculator.md) - a lightweight scripting language.
+- **Checkpoint 01** - due Monday, October 16th.
+  - Track A: The lexer.
+  - Track B: The parser.
 
 
 ## Lectures
