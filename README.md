@@ -24,10 +24,10 @@ there are more links there as well, on the [class links post](https://piazza.com
 
 _Assignments are due before midnight Pacific Time_
 
-[Scrypt](./scrypt/01+-+Calculator.md) - a lightweight scripting language.
-- **Checkpoint 01** - due Monday, October 16th.
+**Scrypt** - a lightweight scripting language.
+- [Checkpoint 01](./scrypt/01%20-%20Calculator.md) - due Monday, October 16th.
   - Track A: The lexer.
-  - Track B: The parser.
+  - Track B: The S expression parser.
 
 
 ## Lectures
@@ -39,3 +39,4 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 | October   2nd | Administrative stuff; overview of the projects
 | October   4th | Git review; branches and code review; interfaces and module boundaries
 | October   9th | Inheritance; virtual functions
+| October  11th | The implementation of inheritance and virtual functions
