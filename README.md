@@ -16,6 +16,7 @@ there are more links there as well, on the [class links post](https://piazza.com
 - **Jiayi's Office Hours**   10:00 to 11:00 on Tuesdays in CSIL
 - **Shinda's Office Hours**  12:45 to 13:45 on Tuesdays in the TA Trailer
 - **Maya's Office Hours**    11:00 to 12:00 on Wednesdays in CSIL
+- **Roman’s Office Hours**   12:30 to 13:30 on Wednesdays in CSIL
 - **Kevin's Office Hours**   15:30 to 16:30 on Wednesdays in CSIL
 - **Peter's Office Hours**   14:00 to 15:00 on Thursdays in CSIL
 - **Ethan's Office Hours**   15:00 to 16:00 on Thursdays in CSIL
