@@ -170,7 +170,7 @@ exit with exit code 1.  Do not print any tokens.  For example, given this input:
 Your program should print only:
 
 ```
-Syntax error on line 1 column 9.
+Syntax error on line 1 column 8.
 ```
 
 It won't reach the syntax errors on line 2,  but if it did, their column numbers
