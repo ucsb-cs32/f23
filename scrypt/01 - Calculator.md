@@ -126,14 +126,15 @@ separated by whitespace characters in the input.
 - A special token that marks the end of the input: `END`
 
 To show that your lexer works,  write a main function in `src/lex.cpp` that runs
-your lexer on a file.  This program should take  no command line arguments, read
-text from standard input,  and convert that text into a  sequence of tokens.  It
-should then print those tokens and their line and column numbers,  one token per
-line.  For example, given this input (which ends with a newline):
+your lexer on its standard input.  This program should run with  no command line
+arguments  and convert its standard input into a  sequence of tokens.  It should
+then print those tokens  and their line and column numbers,  one token per line.
+For example, given this input (which ends with a newline):
 
 ```
 (+(-2 4.444 )
 32(* 5 13.45)(
+
 ```
 
 Your program should print the following. Columns are line number, column number,
