@@ -126,14 +126,15 @@ separated by whitespace characters in the input.
 - A special token that marks the end of the input: `END`
 
 To show that your lexer works,  write a main function in `src/lex.cpp` that runs
-your lexer on a file.  This program should take  no command line arguments, read
-text from standard input,  and convert that text into a  sequence of tokens.  It
-should then print those tokens and their line and column numbers,  one token per
-line.  For example, given this input (which ends with a newline):
+your lexer on its standard input.  This program should run with  no command line
+arguments  and convert its standard input into a  sequence of tokens.  It should
+then print those tokens  and their line and column numbers,  one token per line.
+For example, given this input (which ends with a newline):
 
 ```
 (+(-2 4.444 )
 32(* 5 13.45)(
+
 ```
 
 Your program should print the following. Columns are line number, column number,
@@ -274,8 +275,12 @@ to Gradescope.
 - Tab characters count as one column, just like any other character.
 - A whitespace character is anything the [`cctype`](https://cplusplus.com/reference/cctype/)
   functions consider whitespace.
+- The `std::getline()` function doesn't include newline characters in the string
+  it generates.  Your lexer  needs to know whether or not  the input ends with a
+  newline, so you should read the input character by character instead.
 - [`std::istream::peek()`](https://cplusplus.com/reference/istream/istream/peek/)
-  may be helpful when writing the lexer.
+  and [`std::istream::get()`](https://cplusplus.com/reference/istream/istream/get/)
+  may prove helpful.
 - See  the [`iomanip`](https://cplusplus.com/reference/iomanip/) header for help
   formatting the output of the `lex` script.
 - To make sure your values match the autograder, store your numbers as `double`s
