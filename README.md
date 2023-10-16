@@ -31,6 +31,9 @@ _Assignments are due before midnight Pacific Time_
 - [Checkpoint 01](./scrypt/01%20-%20Calculator.md) - due Monday, October 16th.
   - Track A: The lexer.
   - Track B: The S expression parser.
+- [Checkpoint 02](./scrypt/02%20-%20Persistence.md) - due Monday, October 23rd.
+  - Track A: Variables.
+  - Track B: Infix expressions.
 
 
 ## Lectures
@@ -43,3 +46,4 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 | October   4th | Git review; branches and code review; interfaces and module boundaries
 | October   9th | Inheritance; virtual functions
 | October  11th | The implementation of inheritance and virtual functions
+| October  16th | Abstract classes; template functions and classes
