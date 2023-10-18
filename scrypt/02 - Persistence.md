@@ -148,6 +148,14 @@ x    (=)
 0  1  2  3     5  6
 ```
 
+Your output should be in the same style as Part 1: the input in infix form (with
+lots of parentheses) on one line, followed by the value on the next line:
+
+```
+(x = (y = (((0 + 1) + (2 * 3)) - (4 / (5 + 6)))))
+6.63636
+```
+
 To simplify things -- and two allow your two groups  to work in parallel -- only
 implement  parentheses and  the four mathematical operators for now.  Meanwhile,
 the  Track A group will be adding  lexer and AST support  for variables; you can
