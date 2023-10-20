@@ -33,7 +33,7 @@ _Assignments are due before midnight Pacific Time_
 - [Checkpoint 01](./scrypt/01%20-%20Calculator.md) - due Monday, October 16th.
   - Track A: The lexer.
   - Track B: The S expression parser.
-- [Checkpoint 02](./scrypt/02%20-%20Persistence.md) - due Monday, October 23rd.
+- [Checkpoint 02](./scrypt/02%20-%20Persistence.md) - due Thursday, October 26th.
   - Track A: Variables.
   - Track B: Infix expressions.
 
