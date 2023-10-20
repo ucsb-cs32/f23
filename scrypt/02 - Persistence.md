@@ -78,11 +78,13 @@ Finally, modify the `main()` functions from Part 1 as necessary:
 - `lex.cpp` should behave as before, but include the new token types.  You might
   not need to make any changes here.
 - `parse.cpp` will need a variety of changes:
-  - The program should now expect multiple S expressions at the top level.
-  - It should lex these expressions in one batch, then parse them in one batch.
-  - It should then loop over the resulting ASTs one by one,  first printing each
-    tree in infix notation, then printing its value (as in Part 1).
-  - If it  encounters a  runtime error,  it should print the error message, then
+  - It should still read  (and lex) its entire standard input in one pass before
+    handing it off to the parser (as in Part 1).
+  - The parser should now expect multiple top-level S expressions,  and return a
+    sequence of ASTs.
+  - You should then loop over these ASTs one by one, first printing each tree in
+    infix notation, then printing its value (as in Part 1).
+  - If you encounter a  runtime error,  you should print the error message, then
     exit immediately with exit code three.
 
 ### Error Handling
