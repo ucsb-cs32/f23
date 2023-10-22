@@ -20,8 +20,8 @@ there are more links there as well, on the [class links post](https://piazza.com
 - **Kevin's Office Hours**   15:30 to 16:30 on Wednesdays in CSIL
 - **Tim's Office Hours**     15:30 to 16:30 on Wednesdays in CSIL
 - **Mujia's Office Hours**   16:00 to 17:00 on Wednesdays in CSIL
+- **Ethan's Office Hours**   09:30 to 10:30 on Thursdays in CSIL
 - **Peter's Office Hours**   14:00 to 15:00 on Thursdays in CSIL
-- **Ethan's Office Hours**   15:00 to 16:00 on Thursdays in CSIL
 - **Jason's Office Hours**   15:00 to 16:00 on Thursdays in CSIL
 
 
