@@ -36,7 +36,7 @@ _Assignments are due before midnight Pacific Time_
 - [Checkpoint 02](./scrypt/02%20-%20Persistence.md) - due Thursday, October 26th.
   - Track A: Variables.
   - Track B: Infix expressions.
-- [Checkpoint 03](./scrypt/03%20-%Conditionals.md) - due Thursday, November 2nd.
+- [Checkpoint 03](./scrypt/03%20-%20Conditionals.md) - due Thursday, November 2nd.
   - Track A: Booleans.
   - Track B: Statements.
 
