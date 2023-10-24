@@ -36,6 +36,9 @@ _Assignments are due before midnight Pacific Time_
 - [Checkpoint 02](./scrypt/02%20-%20Persistence.md) - due Thursday, October 26th.
   - Track A: Variables.
   - Track B: Infix expressions.
+- [Checkpoint 03](./scrypt/03%20-%Conditionals.md) - due Thursday, November 2nd.
+  - Track A: Booleans.
+  - Track B: Statements.
 
 
 ## Lectures
@@ -49,3 +52,6 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 | October   9th | Inheritance; virtual functions
 | October  11th | The implementation of inheritance and virtual functions
 | October  16th | Abstract classes; template functions and classes
+| October  18th | ~~Template specialization;~~ overview of recursive parsing
+| October  23rd | Template specialization; unions; tagged unions
+| October  25th | Smart pointers: unique pointers and shared pointers
