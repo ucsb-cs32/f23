@@ -54,4 +54,5 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 | October  16th | Abstract classes; template functions and classes
 | October  18th | ~~Template specialization;~~ overview of recursive parsing
 | October  23rd | Template specialization; unions; tagged unions
-| October  25th | Smart pointers: unique pointers and shared pointers
+| October  25th | Unique pointers
+| October  30th | Shared pointers
