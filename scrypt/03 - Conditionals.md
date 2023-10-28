@@ -73,7 +73,7 @@ known as statements, and are strictly higher level than expressions. Expressions
 cannot contain statements.  Statements can contain expressions.
 
 You'll be adding  three statements to the language:  `if`, `while`, and `print`.
-These basically work as you expect; they're defined formally below.
+These basically work as you expect; they're defined formally below the example.
 
 ```
 x     = 42
@@ -115,7 +115,7 @@ Evaluating these works as you'd expect:
 - To evaluate a while statement, first evaluate its condition. If that evaluates
   to true, evaluate the statements in the braced block.  Then repeat.
 - To evaluate a print statement,  evaluate its expression, then print the result
-  to standard output.
+  to standard output, followed by a newline.
 - To evaluate an expression, simply evaluate it as you normally would.
 
 To add support for statements, you'll need to do the following.
@@ -125,9 +125,9 @@ To add support for statements, you'll need to do the following.
 - Note that `calc.cpp` expects each line of input to be an expression. It should
   not support statements!
 - Add a new `main()` function in `src/format.cpp`.  It should read in its entire
-  input, build an AST of the program, and then print it.  Each statement should
+  input, build an AST of the program,  and then print it.  Each statement should
   go on its own line. Statements within braced blocks should be indented by four
-  spaces.  Expressions should print as they do in Part 2.
+  spaces.  Expressions should print as they did in Part 2.
 - Add a new `main()` function in `src/scrypt.cpp`. This is your new interpreter!
   It should read its entire input, build an AST of the program, and evaluate it.
   If there are no errors,  its only output should be  what is explicitly printed
@@ -170,6 +170,8 @@ three.
 
 ## Notes
 
+- Keywords like `true` or `while` are now "reserved words" in our language; they
+  can no longer be used as variable names like they could in Part 2.
 - When lexing, always read as much as you can into one token before moving on to
   the next. The input `=====` should lex to `==`, `==`, and `=`.
 - None of the operators  "short circuit"  like the `&&` and `||`  operators from
@@ -177,5 +179,9 @@ three.
   an inevitable result and could safely terminate early.
 - As in Part 2,  all operators are left-associative except for the `=` operator,
   which is right-associative.
+- If you want to  use templates for  AST nodes,  the "Operator Classes" from the
+  [functional](https://cplusplus.com/reference/functional/) header may help.
 - When printing bools, print either `true` or `false`.
+- When printing `if` / `else if` / `else` blocks, an `else if` should print with
+  the `if` nested inside the curly braces of the `else`.
 - The quote is funnier if you know who Rasmus Lerdorf is.
