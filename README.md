@@ -36,7 +36,7 @@ _Assignments are due before midnight Pacific Time_
 - [Checkpoint 02](./scrypt/02%20-%20Persistence.md) - due Thursday, October 26th.
   - Track A: Variables.
   - Track B: Infix expressions.
-- [Checkpoint 03](./scrypt/03%20-%20Conditionals.md) - due Thursday, November 2nd.
+- [Checkpoint 03](./scrypt/03%20-%20Conditionals.md) - due Monday, November 6th.
   - Track A: Booleans.
   - Track B: Statements.
 
@@ -55,4 +55,5 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 | October  18th | ~~Template specialization;~~ overview of recursive parsing
 | October  23rd | Template specialization; unions; tagged unions
 | October  25th | Unique pointers
-| October  30th | Shared pointers
+| October  30th | Statements vs expressions; shared pointers
+| November  1st | More shared pointers; weak pointers
