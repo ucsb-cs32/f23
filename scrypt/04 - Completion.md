@@ -180,8 +180,8 @@ print array;
 
 arref = array;
 temp  = arref[1];
-arref[1] = arref[3];
-arref[3] = temp;
+arref[1] = 0 - arref[3];
+arref[3] = 0 - temp;
 print array;
 ```
 

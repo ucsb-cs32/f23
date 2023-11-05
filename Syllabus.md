@@ -38,7 +38,7 @@ compiling to enforce this.
 Auto-graded code  is required to  compile and run  on Gradescope.  Interactively
 graded code is required to compile and run on the Linux computers in CSIL.
 
-- Gradescope is currently running GCC 11.2.0 on Ubuntu 22.04.
+- Gradescope is currently running GCC 11.4.0 on Ubuntu 22.04.
 - CSIL is currently running GCC 13.2.1 on Fedora 38.
 
 
