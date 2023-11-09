@@ -39,6 +39,10 @@ _Assignments are due before midnight Pacific Time_
 - [Checkpoint 03](./scrypt/03%20-%20Conditionals.md) - due Monday, November 6th.
   - Track A: Booleans.
   - Track B: Statements.
+- [Checkpoint 04](./scrypt/04%20-%20Completion.md) - due Friday, November 17th.
+  - Track A: Support.
+  - Track B: Functions.
+  - Track C: Arrays.
 
 
 ## Lectures
@@ -56,6 +60,6 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 | October  23rd | Template specialization; unions; tagged unions
 | October  25th | Unique pointers
 | October  30th | Statements vs expressions; shared pointers
-| November  1st | More shared pointers; weak pointers
-| November  6th | Lambda function; functional-style programming
-| November  8th | Templated functional programming; operator precedence parsing
+| November  1st | More shared pointers; weak pointers; lambda functions
+| November  6th | More lambda functions; functional(-ish) programming
+| November  8th | Templated functional(-ish) programming; operator precedence parsing
