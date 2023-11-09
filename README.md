@@ -57,3 +57,5 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 | October  25th | Unique pointers
 | October  30th | Statements vs expressions; shared pointers
 | November  1st | More shared pointers; weak pointers
+| November  6th | Lambda function; functional-style programming
+| November  8th | Templated functional programming; operator precedence parsing
