@@ -45,9 +45,11 @@ your entire group can attend.  You can find the available  slots listed on [this
 spreadsheet][signup].  In future checkpoints,  you will meet your TA  in CSIL at
 this time to present your work.
 
-For this checkpoint, though, there's no need for a presentation. Instead, create
-a private  GitHub repository,  add all group members  as contributors.  Then add
-your names and GitHub repo URL to the spreadsheet linked above.
+For this checkpoint, though, there's no need for a presentation.  For now, enter
+the names of your  group members  to one of the  time slots  in the spreadsheet.
+Then create a private GitHub repository, and add all group members -- and the TA
+in charge of your time slot -- as contributors. Then add the URL of your repo to
+the spreadsheet as well.
 
 Finally,  email the TA in charge of your time slot with your game proposal.  Use
 the subject line "CS 32 Game Proposal"  and provide the following information in
