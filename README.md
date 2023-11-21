@@ -44,6 +44,10 @@ _Assignments are due before midnight Pacific Time_
   - Track B: Functions.
   - Track C: Arrays.
 
+**Arcade** - a simple video game.
+- [Checkpoint 01](./arcade/01%20-%20Design.md) - due Tuesday, November 28th.
+  - Find a group, decide on a game, and sign up with a TA.
+
 
 ## Lectures
 
@@ -63,3 +67,7 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 | November  1st | More shared pointers; weak pointers; lambda functions
 | November  6th | More lambda functions; functional(-ish) programming
 | November  8th | Templated functional(-ish) programming; operator precedence parsing
+| November 13th | Multithreading; race conditions; mutexes
+| Novmeber 15th | More multithreading; mutexes; deadlock
+| November 20th | Hacking 101: function calls, stack layout, and buffer overflows
+| November 22nd | Hacking 102: stack canaries, ASLR, shellcode, return-to-libc
