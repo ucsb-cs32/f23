@@ -47,6 +47,10 @@ _Assignments are due before midnight Pacific Time_
 **Arcade** - a simple video game.
 - [Checkpoint 01](./arcade/01%20-%20Design.md) - due Tuesday, November 28th.
   - Find a group, decide on a game, and sign up with a TA.
+- [Checkpoint 02](./arcade/02%20-%20Hello%20OpenGL.md) - due Friday, December 1st, at 10:00 AM.
+  - Create an OpenGL window.
+  - Draw a user-controlled player object.
+  - Draw some animated non-player objects.
 
 
 ## Lectures
