@@ -27,7 +27,7 @@ there are more links there as well, on the [class links post](https://piazza.com
 
 ## Assignments
 
-_Assignments are due before midnight Pacific Time_
+_Assignments are due before midnight Pacific Time unless otherwise noted_
 
 **Scrypt** - a lightweight scripting language.
 - [Checkpoint 01](./scrypt/01%20-%20Calculator.md) - due Monday, October 16th.
@@ -48,9 +48,9 @@ _Assignments are due before midnight Pacific Time_
 - [Checkpoint 01](./arcade/01%20-%20Design.md) - due Tuesday, November 28th.
   - Find a group, decide on a game, and sign up with a TA.
 - [Checkpoint 02](./arcade/02%20-%20Hello%20OpenGL.md) - due Friday, December 1st, at 10:00 AM.
-  - Create an OpenGL window.
-  - Draw a user-controlled player object.
-  - Draw some animated non-player objects.
+  - Track A: Create an OpenGL window.
+  - Track B: Draw a user-controlled player object.
+  - Track C: Draw some animated non-player objects.
 
 
 ## Lectures
@@ -72,6 +72,6 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 | November  6th | More lambda functions; functional(-ish) programming
 | November  8th | Templated functional(-ish) programming; operator precedence parsing
 | November 13th | Multithreading; race conditions; mutexes
-| Novmeber 15th | More multithreading; mutexes; deadlock
+| November 15th | More multithreading; mutexes; deadlock
 | November 20th | Hacking 101: function calls, stack layout, and buffer overflows
 | November 22nd | Hacking 102: stack canaries, ASLR, shellcode, return-to-libc

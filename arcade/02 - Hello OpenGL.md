@@ -19,6 +19,10 @@ loop.  This simple loop is the heart of most games: it sleeps for a frame, calls
 an  `update()` function that  updates the states of all the objects in the game,
 then calls a `render()` function that draws all of the objects to the screen.
 
+The code below is just an example.  If you use the timers and callbacks provided
+by GLUT, your code may look quite different (you may not have a loop in `main()`
+at all, and instead let `glutMainLoop()` handle the looping).
+
 ```cpp
 int main() {
   // initialization
@@ -77,8 +81,9 @@ for compiling, running, and interacting with your game.
   but choppier than running locally).  However...
 - Your code _must_ compile and run on the physical computers in CSIL. The Phelps
   3525 (CSTL)  computers are configured  the same as the CSIL computers,  so any
-  program that runs on one should run on the other.
-- The CSIL computers have OpenGL version 4.3 installed.
+  program that runs on one should run on the other.  The CSIL computers have:
+  - OpenGL version 4.3 provided by Mesa 23.1.9.
+  - GLUT version 3.4.0 provided by FreeGLUT.
 - Only the  features listed above are  required for this checkpoint,  but if you
   want to add other things that your final game will need,  you're encouraged to
   do so.  The next checkpoint will be a minimal playable game, so anything extra
