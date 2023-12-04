@@ -51,6 +51,10 @@ _Assignments are due before midnight Pacific Time unless otherwise noted_
   - Track A: Create an OpenGL window.
   - Track B: Draw a user-controlled player object.
   - Track C: Draw some animated non-player objects.
+- [Checkpoint 03](./arcade/03%20-%20Minimum%20Viable%20Product.md) - due Friday, December 8th, at 10:00 AM.
+  - Add the minimum set of features for a playable game.
+  - Add some bonus features for extra credit.
+  - This is the final assignment!
 
 
 ## Lectures
@@ -75,3 +79,5 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 | November 15th | More multithreading; mutexes; deadlock
 | November 20th | Hacking 101: function calls, stack layout, and buffer overflows
 | November 22nd | Hacking 102: stack canaries, ASLR, shellcode, return-to-libc
+| November 27th | Multiprocessing and multithreading; process-level memory layout
+| November 29th | More multithreading; atomic variables; async; promises and futures
