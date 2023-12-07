@@ -81,3 +81,5 @@ _14:00 to 15:15 on Mondays and Wednesdays in TD-W 1701_
 | November 22nd | Hacking 102: stack canaries, ASLR, shellcode, return-to-libc
 | November 27th | Multiprocessing and multithreading; process-level memory layout
 | November 29th | More multithreading; atomic variables; async; promises and futures
+| December  4th | Basic OpenGL with GLUT; Boids
+| December  6th | More Boids; the end - good luck!
